@@ -4,8 +4,6 @@
 
 - Gonzalo davila
 
-- Daiana Molina
-
 - Brian Corbalan
 
 - Francisco Cano
