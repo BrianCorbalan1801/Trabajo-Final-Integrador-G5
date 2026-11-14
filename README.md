@@ -3,7 +3,7 @@
 # Integrantes del grupo 
 
 - Gonzalo davila
-
+- Javier Mendieta
 - Brian Corbalan
 
-- Francisco Cano
+  
